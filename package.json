@@ -1,0 +1,13 @@
+{
+  "name": "discordaccountexporter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tool to export an entire Discord account. Commonly used as a backup tool.",
+  "main": "app.js",
+  "author": "DanDev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "prompt": "^1.2.0"
+  }
+}
