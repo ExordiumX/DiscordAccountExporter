@@ -22,6 +22,8 @@ npm install
 1. Enter your Discord token
 2. Wait for the app to finish exporting
 
+[![Watch the video](https://img.youtube.com/vi/HgUV-XU5R_k/maxresdefault.jpg)](https://youtu.be/HgUV-XU5R_k)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
