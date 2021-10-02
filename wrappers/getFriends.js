@@ -10,4 +10,3 @@ const getFriends = async (token) => {
   console.log(res.data);
   return res;
 };
-getFriends("ODg2MDM0NjM5MDQ1NjYwNzEy.YVTy9g.nQWJXnu3Q_VkhUGnVogQAisLiRA");
